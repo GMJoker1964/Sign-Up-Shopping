@@ -1,0 +1,20 @@
+export const ADD_TO_CART = 'ADD_TO_CART'
+export const CHANGE_QUANTITY = 'CHANGE_QUANTITY';
+export const DELETE_PRODUCT_IN_CART = 'DELETE_PRODUCT_IN_CART';
+export const LIST_PRODUCT = 'LIST_PRODUCT'
+
+export const INIT_AUTH = 'INIT_AUTH';
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+
+
+export const DETAIL_PRODUCT = 'DETAIL_PRODUCT'
+export const SEARCH_PRODUCT = 'SEARCH_PRODUCT'
+export const BUY_PRODUCT = 'BUY_PRODUCT'
+export const PAGINATE = "PAGINATE"
+export const FILTER_PRODUCT = "FILTER_PRODUCT"
+export const SORT_PRODUCT = "SORT_PRODUCT"
+
+
+export const UPDATE_STATUS = "UPDATE_STATUS"
+export const CHANGE_MESSAGE = "CHANGE_MESSAGE"

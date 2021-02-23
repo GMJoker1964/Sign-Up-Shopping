@@ -1,0 +1,44 @@
+{
+    "imgDes": [
+        "images/lt11.png",
+        "images/lt12.png"
+    ],
+    "categories": [
+            "5f5ca94346a91a271009e651"
+    ],
+    "title": "DELL-Gaming",
+    "image": "images/lt10.png",
+    "description": "Bacon ipsum dolor amet filet mignon tenderloin beef swine tri-tip kielbasa chicken shoulder prosciutto venison beef ribs turducken shank pork chop biltong. Cow prosciutto turkey pancetta. Salami flank doner, t-bone ham pork loin andouille. Spare ribs pork belly corned beef, fatback burgdoggen pork strip steak capicola pork chop. Pork chop capicola shank beef ribs landjaeger prosciutto shoulder pastrami. Swine tenderloin pork, filet mignon beef ribs pig prosciutto pork chop kevin meatball bresaola tongue boudin. Cow porchetta frankfurter beef.\n Capicola turducken shank pancetta drumstick filet mignon tenderloin doner jerky flank sausage picanha bacon turkey. Tongue tail shank corned beef salami ground round, flank filet mignon biltong ball tip. Sirloin ham andouille, doner flank tri-tip meatloaf filet mignon beef porchetta kevin. Sirloin meatball t-bone, turducken flank doner chuck capicola andouille.",
+    "sale": "New",
+    "price": 1200
+}
+
+
+{
+    "imgDes": [
+        "images/lt11.png",
+        "images/lt12.png"
+    ],
+    "categories": [
+            "5f5ca94346a91a271009e651"
+    ],
+    "title": "DELL-Gaming",
+    "image": "images/lt10.png",
+    "description": "Bacon ipsum dolor amet filet mignon tenderloin beef swine tri-tip kielbasa chicken shoulder prosciutto venison beef ribs turducken shank pork chop biltong. Cow prosciutto turkey pancetta. Salami flank doner, t-bone ham pork loin andouille. Spare ribs pork belly corned beef, fatback burgdoggen pork strip steak capicola pork chop. Pork chop capicola shank beef ribs landjaeger prosciutto shoulder pastrami. Swine tenderloin pork, filet mignon beef ribs pig prosciutto pork chop kevin meatball bresaola tongue boudin. Cow porchetta frankfurter beef.\n Capicola turducken shank pancetta drumstick filet mignon tenderloin doner jerky flank sausage picanha bacon turkey. Tongue tail shank corned beef salami ground round, flank filet mignon biltong ball tip. Sirloin ham andouille, doner flank tri-tip meatloaf filet mignon beef porchetta kevin. Sirloin meatball t-bone, turducken flank doner chuck capicola andouille.",
+    "sale": "10%",
+    "price": 1200,
+    "price_old": 2000
+}
+
+
+
+{
+    "categories": [
+            "5f5ca94346a91a271009e651"
+    ],
+    "title": "DELL-Gaming",
+    "image": "images/lt10.png",
+    "description": "Bacon ipsum dolor amet filet mignon tenderloin beef swine tri-tip kielbasa chicken shoulder prosciutto venison beef ribs turducken shank pork chop biltong. Cow prosciutto turkey pancetta. Salami flank doner, t-bone ham pork loin andouille. Spare ribs pork belly corned beef, fatback burgdoggen pork strip steak capicola pork chop. Pork chop capicola shank beef ribs landjaeger prosciutto shoulder pastrami. Swine tenderloin pork, filet mignon beef ribs pig prosciutto pork chop kevin meatball bresaola tongue boudin. Cow porchetta frankfurter beef.\n Capicola turducken shank pancetta drumstick filet mignon tenderloin doner jerky flank sausage picanha bacon turkey. Tongue tail shank corned beef salami ground round, flank filet mignon biltong ball tip. Sirloin ham andouille, doner flank tri-tip meatloaf filet mignon beef porchetta kevin. Sirloin meatball t-bone, turducken flank doner chuck capicola andouille.",
+    "sale": "New",
+    "price": 1200
+}
